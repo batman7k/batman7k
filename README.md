@@ -17,6 +17,9 @@
     <a href="mailto:private.mizan@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" />
     </a>
+    <a href="https://asteroid7k.github.io/mizan-portfolio/">
+        <img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=Portfolio&logoColor=red" alt="Portfolio" />
+    </a>
     <a href="https://www.facebook.com/Mizan7k/" target="_blank">
         <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook" alt="Facebook" />
     </a>
