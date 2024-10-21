@@ -2,14 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mizanur+Rahman!" />
 </h1>
 
-<h3 align="center">Hello! I'm Mizan, currently learning HTML, CSS, and JavaScript. My goal is to create functional, responsive websites while expanding my expertise in front-end technologies.</h3>
-
-<br/>
-
-<div align="center">
-    🔭 I’m currently working on independent projects to apply and expand my skills.<br>
-    🌱 I’m currently learning HTML, CSS, and JS<br>
-</div>
+<h3 align="center">Hello! I'm Mizan, a passionate coder with a simple goal to create functional, responsive websites while continuously expanding my expertise in front-end technologies.</h3>
 
 <br/>
 
@@ -33,7 +26,7 @@
 <h2 align="center">⚒️ Languages, Frameworks & Tools ⚒️</h2>
 <br>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git" alt="Languages and Tools"/>
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,vscode,github,git" alt="Languages and Tools"/>
     <img src="https://skillicons.dev/icons?i=javascript,java" alt="Frameworks and Databases"/>
 </div>
 
